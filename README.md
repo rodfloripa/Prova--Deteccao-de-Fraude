@@ -32,7 +32,7 @@ Foram testados os modelos regressão log xgboost. Este tipo de regressão é um 
 
 Diminuir o limiar aumenta a sensibilidade do modelo. Isso aumenta a Recorrência (↓FN) e, geralmente, diminui a Precisão (↑FP). O ponto de desempenho se move para baixo e para a direita no gráfico PR. Aumentar o Limiar: aumenta a seletividade/rigor do modelo. Isso aumenta a Precisão (↓FP) e, geralmente, diminui a Recorrência (↑FN). O ponto de desempenho se move para cima e para a esquerda no gráfico PR. Aqui foi usado o limiar padrão de 0.5 pois ele já maximiza a recorrência.
 
-![][image3]
+![Fig 3](image3.png)
 
  Faz sentido usar o modelo xgboost, embora seja menos explicável que a regressão log ele teve o melhor desempenho,que é o mais importante aqui.
 
