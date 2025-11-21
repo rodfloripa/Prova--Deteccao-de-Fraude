@@ -8,7 +8,7 @@ O objetivo é projetar e avaliar um modelo de detecção de fraude em transaçõ
 
 ### **Entendimento dos dados**
 
-Observando os percentuais das variáveis booleanas podemos ver que o conjunto é bastante desbalanceado,pois só 8.7% das transações são fraudulentas. Repeat\_retalier,used\_pin\_number também são bastante descalanceadas.
+Observando os percentuais das variáveis booleanas podemos ver que o conjunto é bastante desbalanceado,pois só 8.7% das transações são fraudulentas. Repeat\_retalier,used\_pin\_number também são bastante desbalanceadas.
 
 ![Fig 1](image2.png) 
 
