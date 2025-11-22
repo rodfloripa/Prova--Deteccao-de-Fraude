@@ -34,7 +34,7 @@ Diminuir o limiar aumenta a sensibilidade do modelo. Isso aumenta a Recorrência
 
 
 <center>
-<img src="image3.png" alt="Fig 3" width="50%" />
+    <img src="image3.png" alt="Fig 3" width="50%" />
 </center>
 
  Faz sentido usar o modelo xgboost, embora seja menos explicável que a regressão log ele teve o melhor desempenho,que é o mais importante aqui.
